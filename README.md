@@ -24,6 +24,7 @@ There are **2 ways** to do this:
 ---
 
 ## Step 2 - Watchface Style
+*Skip to next section if you are creating App Style*
 
 1. Copy `image.png` to `Watchface/images/`  
    - Replace the old file  
