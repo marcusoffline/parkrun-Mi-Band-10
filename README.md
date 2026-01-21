@@ -11,7 +11,7 @@ There are **2 ways** to do this:
 - Windows PC  
 - Android phone (Temporary for installation. iOS users can use iPhone again afterwards.)
 
-***Be sure to download all files in releases, and let's get started!***
+***Be sure to [download all files in releases](https://github.com/marcusoffline/parkrun-Mi-Band-10/releases/download/parkrun-for-Mi-Band-1.0.3/parkrun-for-Mi-Band-1.0.3.zip), and let's get started!***
 
 ---
 
