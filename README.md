@@ -61,7 +61,7 @@ There are **2 ways** to do this:
 2. Pair your Mi Band 10 if not already paired  
    - On your Mi Band: **Settings → System → Connect new phone**  
 3. Install **Notify for Xiaomi** from Google Play Store (or `.apk` file from [https://mibandnotify.com/downloads/](https://mibandnotify.com/downloads/))  
-4. Open Notify for Xiaomi → **Sign in**  
+4. Open Notify for Xiaomi → **Sign in** *(If you have issues, uninstall Mi Fitness temporarily)*
 5. In Notify for Xiaomi, select: **Device → Update Firmware → Third-party App or Watchface**  
 6. Select your parkrun file  
 
