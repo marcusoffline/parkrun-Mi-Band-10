@@ -9,7 +9,7 @@ There are **2 ways** to do this:
 ## Requirements
 
 - Windows PC  
-- Android phone (Temporary for installation. iOS users can use iPhone again afterwards.)
+- Android device (Temporary for installation. iOS users can use iPhone again afterwards.)
 
 ***Be sure to [download all files in releases](https://github.com/marcusoffline/parkrun-Mi-Band-10/releases/download/parkrun-for-Mi-Band-1.0.3/parkrun-for-Mi-Band-1.0.3.zip), and let's get started!***
 
@@ -57,7 +57,7 @@ There are **2 ways** to do this:
 
 ## Step 3 - Install on Your Watch
 
-1. Copy the Watchface (`.bin`) or App (`.rpk`) to your Android phone (USB, cloud, or whatever works)  
+1. Copy the Watchface (`.bin`) or App (`.rpk`) to your Android device (USB, cloud, or whatever works)  
 2. Pair your Mi Band 10 if not already paired  
    - On your Mi Band: **Settings → System → Connect new phone**  
 3. Install **Notify for Xiaomi** from Google Play Store (or `.apk` file from [https://mibandnotify.com/downloads/](https://mibandnotify.com/downloads/))  
